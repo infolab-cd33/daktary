@@ -1,3 +1,8 @@
 .home-intro {
   background: url(../img/home-intro.jpg) center 0 no-repeat;
 }
+.home-intro h2 {
+  background: #FFFBF4;
+  padding: .5rem;
+  opacity: .9;
+}
